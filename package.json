@@ -1,0 +1,27 @@
+{
+  "name": "xtimer",
+  "version": "1.0.0",
+  "description": "An universal timer class for Javascript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axiostudio/xtimer.git"
+  },
+  "keywords": [
+    "timer",
+    "js",
+    "clock",
+    "time",
+    "javascript",
+    "class"
+  ],
+  "author": "axiostudio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axiostudio/xtimer/issues"
+  },
+  "homepage": "https://github.com/axiostudio/xtimer#readme"
+}
